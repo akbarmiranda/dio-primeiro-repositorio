@@ -1,0 +1,1 @@
+Este é o primeiro commit dentro deste repositório feito através do bash remotamente
